@@ -24,8 +24,8 @@ Bearer [token]
 # Request Parameters 
 |Parameters| Data Type |  Mandatory(Y/N) | Description |
 |-----------|-----------|-----------------|-------------|
-| customer_id| String   |    Y            |Unique Id of customer placing the order|
-|   items|Array    | Y|     List of items in the order. Each item must include product_id and quantity.  |
+|customer_id| String   |    Y            |Unique Id of customer placing the order|
+|items|Array    | Y|     List of items in the order. Each item must include product_id and quantity.  |
 |product_id| String| Y| Unique identifier for the product|
 |quantity|Integer|Y| Defines the number of items ordered|
 |payment_method|String|Y|Defines the type of payment. Namely Card, UPI, COD (Cash on delivery)|
