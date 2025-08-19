@@ -1,18 +1,22 @@
 **PURCHASING A BOOK FROM AMAZON**
 
 # Sign up
+1.	Click the icon that says Google Chrome/Mozilla Firefox on your desktop. 
+2.	In the browser address bar, enter [amazon.in](www.amazon.in) using your keyboard and click **Enter**. <img src="Images/searchbar.png" width="500">
 
-1. Click the icon that says Google Chrome/Mozilla Firefox on your desktop.
-2. In the browser address bar, enter [amazon.in](http://www.amazon.in) using your keyboard and click **Enter**.
-<img src="Images/searchbar.png" width="500">
-3. Since you are a new user, you need to Sign up. Click the Start here link located below the Sign in button.<img src="Images/Signin.png" width="200">
-4. In the following page, fill the below-mentioned fields and click **Continue**.
+
+3.	As a new user you need to Sign up, click the **Start here** button to create your account. <img src="Images/Signin.png" width="200">
+
+4. In the following page, fill the below-mentioned fields and click **Continue**. 
+
 - Your name
 - Mobile Number
-- Password<br>
-5. A message will be sent to your mobile number with a unique code that needs to be entered in the text box given. In case, you did not receive any message, click **Resend OTP**.
+- Password
+
+5. A message will be sent to your mobile number with a unique code that needs to be entered in the text box given. In case, you did not receive any message, click **Resend OTP.**
 <img src="Images/Create account.png" width="400">
-6. Click the **Create your Amazon account** button. Your Amazon account is created. You will be re-directed to the home page. The page displays all kinds of items available on the website.
+
+
 
 # Searching for the Item
 
@@ -33,14 +37,18 @@
 7. Check for the **Delivery date** and conditions for **Free Delivery**.
 8. Once you are sure about the purchase, select the number of books needed by choosing a number from the drop-down and click **Buy Now**. Check **Add gift options** for gift wrap this book.
 <img src="Images/Fountainhead.png" width="600">
-9. You will be redirected to the **Checkout** page. Enter the address of the location where you need the book to be delivered. Alternatively, you can also pick up the parcel at a location near you.
-10. If you don’t have an pre-existing address, add a new one by clicking Add a new Address option. Fill in the details and click **Use this address**.
+
+
+9.	You will be redirected to the Checkout page. Enter the address of the location where you need the book to be delivered. Alternatively, you can also pick up the parcel at a location near you. 
+10.	If you don’t have an pre-existing address, add a new one by clicking **Add a new address** option. Fill in the details and click **Use this address.**
+
 <img src="Images/Checkout.png" width="600">
 
 # Payment
 
-1. Choose the payment options and click **Use this payment method**.
-<img src="Images/Payment method.png" width="600">
-2. You will be able to view your **Delivery Address**, **Payment method**, applied **Offers**, and **Review items and delivery** with relevant delivery information. Review it once and click **Place your order.**
+1. Choose the payment options and click **Use this payment method**.<img src="Images/Payment method.png" width="600">
+
+
+2. You will be able to view your **Delivery Address**, **Payment method**, **Offers**, and **Review items** and delivery with relevant delivery information. Review it once and click Place your order.
 <img src="Images/Final checkout.png" width="600">
 3. The order will be placed, and a confirmation message will be displayed. Also, you will be receiving a confirmation message to your mobile.
