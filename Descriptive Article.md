@@ -27,6 +27,39 @@ Its secure nature is ideal for use in payment gateways, financial transactions, 
 - Complicated and less flexible when compared to REST
 - API caching is not supported
 
+# Sample SOAP API Request
+```
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:usr="http://example.com/user">
+   <soap:Header/>
+   <soap:Body>
+      <usr:GetUserRequest>
+         <usr:UserId>12345</usr:UserId>
+      </usr:GetUserRequest>
+   </soap:Body>
+</soap:Envelope>
+```
+# Sample SOAP API Response 
+```
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:usr="http://example.com/user">
+   <soap:Header/>
+   <soap:Body>
+      <usr:GetUserResponse>
+         <usr:User>
+            <usr:UserId>12345</usr:UserId>
+            <usr:FirstName>Kushal</usr:FirstName>
+            <usr:LastName>Yellamraju</usr:LastName>
+            <usr:Email>kushal@example.com</usr:Email>
+            <usr:Status>Active</usr:Status>
+         </usr:User>
+      </usr:GetUserResponse>
+   </soap:Body>
+</soap:Envelope>
+```
+
 # REST API
 **REST** stands for Representational State Transfer. This is not a protocol but an architecture that uses HTTP methods like GET, PUT, POST, and DELETE to perform CRUD operations.<br> 
 It runs on light weight stateless architecture that uses XML, JSON, YAML as a data format. 
