@@ -10,7 +10,7 @@
 4. In the following page, fill the below-mentioned fields and click **Continue**. 
 
 - Your name
-- Mobile Number
+- Mobile number
 - Password
 
 5. A message will be sent to your mobile number with a unique code that needs to be entered in the text box given. In case, you did not receive any message, click **Resend OTP.**
