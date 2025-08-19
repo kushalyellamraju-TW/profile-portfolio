@@ -7,4 +7,12 @@ Hands-on experience in adopting DITA structuring, testing & documenting API cont
 Cross-functional team collaborator drawing and curating information from multiple sources. Proactive, process-oriented, and motivated to traverse across emerging technologies and trends for improving documentation. 
 
 # Skills and Competencies 
-
+- **Structured Authoring & DITA**: Oxygen XML Editor, FrameMaker, MadCap Flare
+- **Content Strategy**: Modular writing, Content Reuse, Taxonomy, Content Design
+- **AI in Documentation**: Confluence, Postbot, Prompt Expertise
+- **Lifecycles**: SDLC, DDLC, Product Roadmap
+- **Documentation Types**: API docs, Admin Guides, Disaster Recovery Plans, Release Notes, Tutorials, UX writing
+- **Tools & Platforms**: Git, Swagger, Postman, JIRA, SharePoint, Confluence, Visio, PowerPoint, Figma
+- **Style Guides**: Microsoft Style Guide
+- **Collaboration**: Requirement Gathering, Interviews, Questionnaires, Stakeholder Management, Gap Analysis, Market Research
+- **Languages & Formats**: XML, JSON, HTML, Markdown
