@@ -5,7 +5,9 @@
 2.	In the browser address bar, enter [amazon.in](www.amazon.in) using your keyboard and click **Enter**. <img src="Images/searchbar.png" width="500">
 
 
-3.	As a new user you need to Sign up, click the **Start here** button to create your account. <img src="Images/Signin.png" width="200">
+3.	As a new user you need to Sign up, click the **Start here** button to create your account.
+  
+<img src="Images/Signin.png" width="200">
 
 4. In the following page, fill the below-mentioned fields and click **Continue**. 
 
