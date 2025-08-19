@@ -22,7 +22,7 @@ POST - //server:port/v1/orders
 Bearer [token]
 
 # Request Parameters 
-| Parameters| Data Type |  Mandatory(Y/N) | Description |
+|Parameters| Data Type |  Mandatory(Y/N) | Description |
 |-----------|-----------|-----------------|-------------|
 | customer_id| String   |    Y            |Unique Id of customer placing the order|
 |   items|Array    | Y|     List of items in the order. Each item must include product_id and quantity.  |
@@ -63,7 +63,7 @@ curl \
 }
 ```
 # Response Parameters
-| Parameters| Data Type |  Mandatory(Y/N) | Description |
+|Parameters| Data Type |  Mandatory(Y/N) | Description |
 |-----------|-----------|-----------------|-------------|
 | order_id| String   |    Y            |Unique Id of order|
 |   status|String    | Y|     Tells if the order is confirmed or denied|
