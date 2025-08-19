@@ -4,8 +4,7 @@
 
 1. Click the icon that says Google Chrome/Mozilla Firefox on your desktop.
 2. In the browser address bar, enter [amazon.in](http://www.amazon.in) using your keyboard and click **Enter**.
-
-![](data:image/png;base64...)
+[searchbar](images/searchbar.png)
 
 1. Since you are a new user you need to Sign up. Click the **Start here** link located below
    the Sign in button.
