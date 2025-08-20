@@ -42,7 +42,7 @@
 
 
 9.	You will be redirected to the Checkout page. Enter the address of the location where you need the book to be delivered. Alternatively, you can also pick up the parcel at a location near you. 
-10.	If you don’t have an pre-existing address, add a new one by clicking **Add a new address** option. Fill in the details and click **Use this address.**
+10.	If you don’t have a pre-existing address, add a new one by clicking **Add a new address** option. Fill in the details and click **Use this address.**
 
 <img src="Images/Checkout.png" width="600">
 
@@ -51,6 +51,7 @@
 1. Choose the payment options and click **Use this payment method**.<img src="Images/Payment method.png" width="600">
 
 
-2. You will be able to view your **Delivery Address**, **Payment method**, **Offers**, and **Review items** and delivery with relevant delivery information. Review it once and click Place your order.
+2. You will be able to view your **Delivery Address**, **Payment method**, **Offers**, and **Review items** and delivery with relevant delivery information. Review it once and click **Place your order**.
+   
 <img src="Images/Final checkout.png" width="600">
-3. The order will be placed, and a confirmation message will be displayed. Also, you will be receiving a confirmation message to your mobile.
+4. The order will be placed, and a confirmation message will be displayed. Also, you will be receiving a confirmation message to your mobile.
