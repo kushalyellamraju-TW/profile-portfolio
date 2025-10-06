@@ -1,5 +1,5 @@
 # Procedure Writing 
-## Updating an application from Google Play Store
+## Update an application from Google Play Store
 This article helps you to update an application from the Google Play Store. 
 1. Unlock you phone and swipe up the home screen to display the application icons installed in your phone.
 2. You will notice a search bar at the bottom of the icons, press anywhere on the search bar to see a keyboard.
