@@ -1,18 +1,26 @@
 # Profile-Portfolio Kushal Yellamraju 
-This site contains details on my profile and related portfolio showcasing my skills as a technical writer. 
+This site provides my professional profile and a portfolio highlighting my technical writing expertise.
 
 # About me 
-Seasoned professional with overall experience of 14 years as a writer including 11 years as a technical writer delivering user-focused, business-ready, and structured content across domains like insurance, communications, cybersecurity, and cloud platforms. <br>
-Hands-on experience in adopting DITA structuring, testing & documenting API content, defining content strategy & design, and developing helpful user guides.<br>
-Cross-functional team collaborator drawing and curating information from multiple sources. Proactive, process-oriented, and motivated to traverse across emerging technologies and trends for improving documentation. 
+Accomplished technical writer with over 11 years of experience developing user and developer documentation that drives product adoption and enhances customer satisfaction.<br>
+
+I have produced and delivered high-quality API references, conceptual guides, how-to documentation, end-user materials, and release notes that reduced customer and developer issues. <br>
+
+I have led content simplification and improved UI clarity, decreasing support tickets and increasing product usability.<br>
+
+Collaborative leader experienced in partnering with cross-functional teams to establish documentation standards, scalability, modularity, and style guides that ensure consistency and accuracy.<br>
+
+Adept at leveraging AI-driven tools for content strategy and documentation standards alignment, and terminology and technical accuracy. <br>
+
+Passionate about aligning content strategy and design with product vision to deliver exceptional developer experiences and business impact.
 
 # Skills and Competencies 
 - **Structured Authoring & DITA**: Oxygen XML Editor, FrameMaker, MadCap Flare
-- **Content Strategy**: Modular writing, Content Reuse, Taxonomy, Content Design
-- **AI in Documentation**: Confluence, Postbot, Prompt Expertise
-- **Lifecycles**: SDLC, DDLC, Product Roadmap
-- **Documentation Types**: API docs, Admin Guides, Disaster Recovery Plans, Release Notes, Tutorials, UX writing
-- **Tools & Platforms**: Git, Swagger, Postman, JIRA, SharePoint, Confluence, Visio, PowerPoint, Figma
+- **Content Strategy**: Modular writing, Content reuse, Content design
+- **AI in Documentation**: Confluence, Postbot
+- **Lifecycles**: SDLC, DDLC, Product roadmap
+- **Documentation Types**: End-user documentation, Job aids, API docs, Admin guides, Procedural documentation, Release notes, Tutorials, UX writing
+- **Tools & Platforms**: Git, Swagger, Postman, JIRA, SharePoint, Confluence, MS Visio, PowerPoint, MS Word, SnagIT
 - **Style Guides**: Microsoft Style Guide
-- **Collaboration**: Requirement Gathering, Interviews, Questionnaires, Stakeholder Management, Gap Analysis, Market Research
+- **Collaboration**: Cross-functional team coordination, Requirement gathering, Interviews, Questionnaires, Stakeholder management, Gap analysis, Research
 - **Languages & Formats**: XML, JSON, HTML, Markdown
