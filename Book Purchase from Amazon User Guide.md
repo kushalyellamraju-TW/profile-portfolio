@@ -4,21 +4,15 @@
 
 1. Click the icon that says Google Chrome/Mozilla Firefox on your desktop.
 2. In the browser address bar, enter [amazon.in](http://www.amazon.in) using your keyboard and click **Enter**.
+<img src="Images/searchbar.png" width="500">
+3. Since you are a new user, you need to Sign up. Click the **Start here** link located below the Sign in button.<img src="Images/Signin.png" width="200">
+4. In the following page, fill the below-mentioned fields and click **Continue**.
+-Your name
+-Mobile Number
+-Password
 
-![](data:image/png;base64...)
-
-1. Since you are a new user you need to Sign up. Click the **Start here** link located below
-   the Sign in button.
-
-![](data:image/png;base64...)
-
-1. In the following page, fill the below-mentioned fields and click **Continue**.
-   * Your name
-   * Mobile Number
-   * Password
-2. A message will be sent to your mobile number with a unique code that needs to be entered in the text box given. In case, you did not receive any message, click **Resend OTP**.
-
-![](data:image/png;base64...) ![](data:image/png;base64...)
+6. A message will be sent to your mobile number with a unique code that needs to be entered in the text box given. In case, you did not receive any message, click **Resend OTP**.
+<img src="Images/Create account.png" width="400">
 
 1. Click the **Create your Amazon account** button. Your Amazon account is created. You will be re-directed to the home page. The page displays all kinds of items available on the website.
 
