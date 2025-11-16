@@ -1,5 +1,5 @@
 
-# PURCHASING A BOOK FROM AMAZON
+# Purchasing a book from amazon.in
 
 ## Sign up
 1.	Click the icon that says Google Chrome/Mozilla Firefox on your desktop. 
