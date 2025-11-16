@@ -2,9 +2,8 @@
 This document discusses two widely used methods of designing API - SOAP and REST.
 
 # SOAP
-**SOAP** stands for Simple Object Access Protocol. It is a secure protocol which used HTTP as a medium for transfer of messages between systems or applications.<br> 
-The data transfer is secured by inbuilt security and WS security. It uses XML as a data format and can be relatively slower in processing when compared to REST.<br> 
-It supports both state and stateless data transfer.<br>
+**SOAP** stands for Simple Object Access Protocol. It is a secure protocol which used HTTP as a medium for transfer of messages between systems or applications.<br><br>
+The data transfer is secured by inbuilt security and WS security. It uses XML as a data format and can be relatively slower in processing when compared to REST.It supports both state and stateless data transfer.<br><br>
 SOAP protocol defines 4 elements of designing an API:
 - **Envelope**: Defines the structure of the XML
 - **Encoding**: Defines the usage of data
@@ -61,8 +60,7 @@ Its secure nature is ideal for use in payment gateways, financial transactions, 
 ```
 
 # REST API
-**REST** stands for Representational State Transfer. This is not a protocol but an architecture that uses HTTP methods like GET, PUT, POST, and DELETE to perform CRUD operations.<br> 
-It runs on light weight stateless architecture that uses XML, JSON, YAML as a data format. 
+**REST** stands for Representational State Transfer. This is not a protocol but an architecture that uses HTTP methods like GET, PUT, POST, and DELETE to perform CRUD operations. It runs on light weight stateless architecture that uses XML, JSON, YAML as a data format.<br><br>
 REST is built on six constraints upon which it is built:
 - Caching
 - Uniform interface
@@ -107,10 +105,10 @@ It’s lightweight, scalable, and flexible nature is ideal for use in streaming 
 }
 ```
 # Glossary 
-- **Stateful**: In a stateful SOAP API, the servers maintain a record of the previous interactions with a specific client. This means that each new request from that client can draw information or context from the previous requests within the same session or transaction.<br>
-- **Stateless**: In a stateless API, especially in REST, the servers don't maintain a record of the previous interactions with a specific client, meaning each request is treated as a new one, independent from the previous request for the same client.<br>
-- **Caching**: The responses are stored in a temporary memory so they can be retireved faster. <br>
-- **Client-server diffrentiation**: In REST API, the client (user interface) is diffrentiated from the server (bussiness logic) enabling portability, scalability, and realiability.<br>
-- **Layered System**: This is hierarchical system where each individual component handles the request as it moves from your device to the server and back.<br>
-- **XML, JSON, YAML**: Data format in which the request and response code is represented.<br>
-- **CRUD**: Stands for Create(POST), Read(GET), Update(PUT), and Delete(Delete) operations on the REST API.
+- **Stateful**: In a stateful SOAP API, the servers maintain a record of the previous interactions with a specific client. This means that each new request from that client can draw information or context from the previous requests within the same session or transaction.<br><br>
+- **Stateless**: In a stateless API, especially in REST, the servers don't maintain a record of the previous interactions with a specific client, meaning each request is treated as a new one, independent from the previous request for the same client.<br><br>
+- **Caching**: The responses are stored in a temporary memory so they can be retireved faster.<br><br>
+- **Client-server diffrentiation**: In REST API, the client (user interface) is diffrentiated from the server (bussiness logic) enabling portability, scalability, and realiability.<br><br>
+- **Layered System**: This is hierarchical system where each individual component handles the request as it moves from your device to the server and back.<br><br>
+- **XML, JSON, YAML**: Data format in which the request and response code is represented.<br><br>
+- **CRUD**: Stands for Create (POST), Read (GET), Update (PUT), and Delete (Delete) operations on the REST API.
