@@ -1,4 +1,4 @@
-# Work Samples
+# Work samples
 The following lists the work samples. They are categorized under:
 - [API documentation sample](https://github.com/kushalyellamraju-TW/profile-portfolio/blob/main/API%20documentation%20sample.md) <br>
 - [API documentation published](https://docs.oracle.com/cd/F57435_01/rest-api.html)<br>
