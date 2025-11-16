@@ -1,5 +1,5 @@
-# API Documentation for creating an order using Product ID 
-The following code snippet is used for creating documentation.<br>
+# API documentation for creating an order using Product ID 
+The following code snippet is used for creating API documentation.<br>
 ```{
   "customer_id": "string",
   "items": [
