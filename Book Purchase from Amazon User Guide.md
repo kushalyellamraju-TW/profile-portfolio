@@ -1,4 +1,4 @@
-**PURCHASING A BOOK FROM AMAZON**
+# PURCHASING A BOOK FROM AMAZON
 
 # Sign up
 1.	Click the icon that says Google Chrome/Mozilla Firefox on your desktop. 
